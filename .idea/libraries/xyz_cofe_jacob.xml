@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="xyz.cofe.jacob" type="repository">
+    <properties maven-id="xyz.cofe:jacob:1.20" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/xyz/cofe/jacob/1.20/jacob-1.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
