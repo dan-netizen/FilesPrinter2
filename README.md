@@ -13,4 +13,5 @@ following OOP principles and design patterns.<br>
  
 # Not functional yet.<br>
 
-# JACOB may need to be manually added to the project.<br> 
+# May need to manually add JACOB to project.<br>
+https://github.com/freemansoft/jacob-project
